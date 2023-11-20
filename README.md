@@ -6,7 +6,7 @@
 [![coverity shield][]](https://scan.coverity.com/projects/pythonnet)
 
 [![license shield][]](./LICENSE)
-[![pypi package version][]](https://pypi.python.org/pypi/pythonnet)
+[![pypi package version][]](https://pypi.python.org/pypi/pythonnet) 
 [![python supported shield][]](https://pypi.python.org/pypi/pythonnet)
 [![stackexchange shield][]](http://stackoverflow.com/questions/tagged/python.net)
 [![slack][]](https://pythonnet.slack.com)
