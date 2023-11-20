@@ -1,6 +1,6 @@
 # pythonnet - Python for .NET
 
-[![appveyor shield][]](https://ci.appveyor.com/project/pythonnet/pythonnet/branch/master)
+[![appveyor shield][]](https://ci.appveyor.com/project/pythonnet/pythonnet/branch/master) 
 [![travis shield][]](https://travis-ci.org/pythonnet/pythonnet)
 [![codecov shield][]](https://codecov.io/github/pythonnet/pythonnet)
 [![coverity shield][]](https://scan.coverity.com/projects/pythonnet)
